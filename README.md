@@ -1,4 +1,4 @@
-![Drag Racing](./assets/Banner%20%231.jpg)
+![Drag Racing](./assets/github_preview.jpg)
 
 ### Nikita Tolstik
 

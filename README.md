@@ -1,5 +1,7 @@
 ![Drag Racing](./assets/Banner%20%231.jpg)
 
+### Nikita Tolstik
+
 ### About me
 
 ```json
@@ -31,7 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="width: 32px;" />
 &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 32px;" />
-
+&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="width: 32px;" />
+&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width: 32px;" />
+&nbsp;
 </div>
 
 ### How to reach me

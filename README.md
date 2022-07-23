@@ -2,31 +2,23 @@
 
 Hello, I'm **Nikita Tolstik** 👋
 
-### About me
+## About me
 
 ```json
 {
   "name": "Nikita",
   "surname": "Tolstik",
-  "birthday": "27th May 2001"
+  "birthday": "27th May 2001",
+  "position": "React Front-end Developer",
+  "english_level": "Intermediate",
+  "programming_experience": "since August 2016",
+  "commercial_experience": "since August 2019",
+  "interests": ["Investing", "Business", "Programming", "Crypto"],
+  "hobbies": ["Reading", "Play Games", "Drive a car"],
+  "favorite_phrase": "There's a time for everything"
 }
 ```
 
-### Technology Stack
+## Technology Stack
 
-### How to reach me
-
-<!--
-**vibegame/vibegame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me

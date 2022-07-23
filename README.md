@@ -1,4 +1,20 @@
-### Hi there 👋
+![Drag Racing](./assets/Banner%20%231.jpg)
+
+Hello, I'm **Nikita Tolstik** 👋
+
+### About me
+
+```json
+{
+  "name": "Nikita",
+  "surname": "Tolstik",
+  "birthday": "27th May 2001"
+}
+```
+
+### Technology Stack
+
+### How to reach me
 
 <!--
 **vibegame/vibegame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@ Hello, I'm **Nikita Tolstik** 👋
 
 ```json
 {
-  "name": "Nikita",
+  "name": "Nikitass",
   "surname": "Tolstik",
   "birthday": "27th May 2001"
 }

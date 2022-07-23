@@ -1,6 +1,6 @@
 ![Drag Racing](./assets/Banner%20%231.jpg)
 
-## About me
+### About me
 
 ```json
 {
@@ -17,7 +17,7 @@
 }
 ```
 
-## Technology Stack
+### Technology Stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 32px;" />
@@ -34,7 +34,7 @@
 
 </div>
 
-## How to reach me
+### How to reach me
 
 <div>
 <a href="https://www.linkedin.com/in/nikita-tolstik-9a73b31b6/">

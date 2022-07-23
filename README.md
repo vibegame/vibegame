@@ -1,4 +1,4 @@
-![Drag Racing](./assets/github_preview.jpg)
+![Drag Racing](./assets/GitHub%20Preview.jpg)
 
 ## About me
 

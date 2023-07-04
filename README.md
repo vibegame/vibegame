@@ -47,6 +47,8 @@
 
 ## Technology Stack
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645d07985e197f85a2c3f7ef?variant=dark&roadmaps=react-native)](https://roadmap.sh)
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 32px;" />
   &nbsp;

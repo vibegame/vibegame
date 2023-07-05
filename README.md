@@ -1,4 +1,4 @@
-![Drag Racing](./assets/GitHub%20Preview.jpg)
+![Preview](./assets/GitHub%20Preview.jpg)
 
 ## About me
 
@@ -48,6 +48,10 @@
 ## Roadmap.sh
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/645d07985e197f85a2c3f7ef?variant=dark&roadmaps=typescript%2Creact%2Creact-native%2Cfrontend)](https://roadmap.sh)
+
+## LeetCode
+
+<img src="./assets/leetcode.png" width="500">
 
 ## How to reach me
 

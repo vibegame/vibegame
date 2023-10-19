@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td>Position</td>
-        <td>React Front-end Developer</td>
+        <td>Front-end Developer</td>
     </tr>
     <tr>
         <td>English Level</td>
